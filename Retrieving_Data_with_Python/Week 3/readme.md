@@ -7,7 +7,7 @@ www.py4e.com/code3/pagerank.zip
 
 ## OUTPUT
 
-![PageRank-Output](Retrieving_Data_with_Python/Week%203/PageRank_Screenshot.png?raw=true "Page-Rank")
+![PageRank-Output](PageRank_Screenshot.png?raw=true "Page-Rank")
 
 A Page Ranking
 
