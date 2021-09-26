@@ -26,13 +26,13 @@ Its output is written to gline.js which is visualized using gline.htm.
 
 ### Sakai Developer Email Participation by Organization
 
-![EmailData-Output](Sakai_mail_activity.png.png?raw=true "Email_data")
+![EmailData-Output](Sakai_mail_activity.png?raw=true "Email_data")
  
  Sakai Mail Activity by Organization
 
 ### Sakai Developer Email Participation by Organization With One Year Gap
 
-![EmailData_1_year_gap-Output](mail_data_with_one-year-gap.png.png.png?raw=true "Email_Data_with_one_year_gap")
+![EmailData_1_year_gap-Output](mail_data_with_one-year-gap.png?raw=true "Email_Data_with_one_year_gap")
 
 ### For more info visit : [Week 4-6_Readme.txt](Week4-6_README.txt)
 
