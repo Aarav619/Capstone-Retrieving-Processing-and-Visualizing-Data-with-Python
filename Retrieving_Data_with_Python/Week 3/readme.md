@@ -13,4 +13,4 @@ A Page Ranking
 
 The first program (spider.py) program crawls a web site and pulls a series of pages into the database (spider.sqlite), recording the links between pages. You can restart the process at any time by removing the spider.sqlite file and rerunning spider.py.
 
-## For more assistance view : Retrieving_Data_with_Python/Week%203/Week3_README.txt
+### For more assistance view : [a relative link](Week3_README.txt)
